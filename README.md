@@ -6,7 +6,7 @@
 
 Make request url like this:
 
-http://`PROXY URL`/?src=`FILE URL YOU WANT TO REQUEST`
+http://`proxy url`/?src=`file you want to request`
 
 **Note**: use file url without <code>http://</code>.
 
