@@ -1,6 +1,6 @@
 # Node Crossdomain Proxy
 
-[Node Crossdomain Proxy](https://github.com/premist/node-crossdomain-proxy) is extremely simple Node.js proxy. It just adds **Access-Control-Allow-Origin: *** for XHR. I used it for Windows Azure Storage Blob mirroring.
+[Node Crossdomain Proxy](https://github.com/premist/node-crossdomain-proxy) is extremely simple Node.js proxy. It just adds *Access-Control-Allow-Origin: ** for XHR. I used it for Windows Azure Storage Blob mirroring.
 
 ## Usage
 
